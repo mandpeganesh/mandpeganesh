@@ -9,11 +9,12 @@ With 4 years of experience under my belt, I've had the chance to work on some ex
 
 ### Skills
 - Python
-- Data Analysis
-- Data Visualization
-- Flask
-- Django
-- Django Rest Framework
+- Data Analysis, Data Visualization
+- Flask, Django, Django Rest Framework
+- Databases: MySQL,PostgreSQL,MongoDB
+- Streamlit
+- Computer vision
+- Pyautogui, OCR
 
 ### Get in Touch
 - 📫 How to reach me: (mailto:ganeshmandpe24@gmail.com)

@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Ganesh, a Python Developer with a passion for all things data analysis and visualization.
+### Hi there 👋 I'm Ganesh
+
+Python Developer with a passion for all things data analysis and visualization.
 With 4 years of experience under my belt, I've had the chance to work on some exciting projects and develop my skills in various areas of Python development.
 
 ### About Me

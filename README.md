@@ -10,9 +10,9 @@ With 4 years of experience under my belt, I've had the chance to work on some ex
 - 😄 Pronouns: He/Him
 
 ### Skills
-- Python
-- Data Analysis, Data Visualization
-- Flask, Django, Django Rest Framework
+- Python, JavaScipt
+- Data Analysis, Data Visualization, LLM, Langchain, RAG
+- Flask, Django, Django Rest Framework, FastAPI
 - Databases: MySQL,PostgreSQL,MongoDB
 - Streamlit
 - Computer vision
